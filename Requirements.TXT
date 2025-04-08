@@ -1,0 +1,17 @@
+# Core data processing and analysis
+pandas
+numpy
+
+# Stock market data tools
+yfinance
+nsetools
+ta  # Technical Analysis library
+
+# Date and time utilities
+pytz
+
+# Task scheduling 
+apscheduler
+
+# HTTP requests
+requests
